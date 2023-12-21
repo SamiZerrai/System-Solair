@@ -1,10 +1,9 @@
-**RÈalisez par Helder Salvador/Rayane Alami/Alexandre Egloff/Sami Zerrai**
+**R√©alisez par Helder Salvador/Rayane Alami/Alexandre Egloff/Sami Zerrai**
 
 ---
 
 # Projet de cours WEBGL :rocket:
 
-CrÈer un SystÈme solaire avec toute les planetes, avec les rotations.
-En Bonus ajouter un son.
+Cr√©er un Syst√®me solaire avec toutes les plan√®tes, avec les rotations. En bonus ajouter un son.
 
 ![picture](textures/system.jpg)
